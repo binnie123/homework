@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+#container{
+    width: 90%;
+    margin: auto;
+}
+#topbar{
+    width: 100%;
+    height: 20px;
+    font-size: 13px;
+    background: gainsboro;
+    color: dimgray;
+   text-align:right ;
+   padding: 0% 10px;
+   box-sizing: border-box;
+}
+#topbar a{color: dimgray;
+text-decoration: none;
+}
+#topbar a{
+    color: dimgray;
+    text-decoration: none;
+}
+
+#bannr{
+    border: soild 2px black;
+}
